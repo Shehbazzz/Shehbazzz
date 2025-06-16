@@ -1,7 +1,7 @@
 
 <h1 align="center">💀 Shehbaz | Terminal Hacker</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F70000&vCenter=true&width=435&lines=VPS+Slayer+%7C+UDP+Flood+Master;Cyber+Ops+Specialist+%7C+Termux+Wizard;Creator+of+Shehbaz+VPS+Tool+Pro;Message+Me+for+Access+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F70000&vCenter=true&width=435&lines=VPS+Slayer+%7C+UDP+Flood+Master;Cyber+Ops+Specialist+%7C+Termux+Wizard;Creator+of+CS1.6+DDoS;Message+Me+for+Access+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 ---
